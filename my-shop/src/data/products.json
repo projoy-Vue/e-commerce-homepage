@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 50,
+      "rating": 4.5,
+      "image": "earbuds.jpg",
+      "inStock": true,
+      "description": "High-quality wireless earbuds with noise cancellation."
+    },
+    {
+      "id": 2,
+      "name": "Fitness Tracker",
+      "category": "Health",
+      "price": 30,
+      "rating": 4.0,
+      "image": "fitness_tracker.jpg",
+      "inStock": true,
+      "description": "Track your workouts and health stats efficiently."
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 100,
+      "rating": 4.8,
+      "image": "bluetooth_speaker.jpg",
+      "inStock": false,
+      "description": "Portable Bluetooth speaker with rich sound quality."
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "category": "Health",
+      "price": 120,
+      "rating": 4.6,
+      "image": "smart_watch.jpg",
+      "inStock": true,
+      "description": "Stylish smartwatch with fitness tracking features."
+    }
+  ]
+  
